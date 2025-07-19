@@ -1,4 +1,8 @@
 import unittest
+ HEAD
+
+
+ f5877e6 (Fix import path in test_converter.py)
 from converter import flip_image, text_to_pdf
 
 class TestConverter(unittest.TestCase):
