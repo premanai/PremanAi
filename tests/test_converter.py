@@ -1,5 +1,5 @@
 import unittest
-from src.converter import flip_image, text_to_pdf
+from converter import flip_image, text_to_pdf
 
 class TestConverter(unittest.TestCase):
     def test_flip_image(self):
