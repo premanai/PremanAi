@@ -10,7 +10,10 @@ setup(
         'requests',
         'pillow',
         'moviepy',
+        'pydub',
         'opencv-python',
+        'python-docx',
+        'reportlab',
         'python-dotenv',
     ],
     entry_points={
