@@ -34,5 +34,15 @@ PremanAi adalah AI dengan attitude! Gak cuma cerdas, tapi juga galak kalau disal
 - Bisa diakses via CLI / Web / Bot
 - Repo ini auto-update, tinggal pull atau unduh ulang
 
+## Running Tests
+
+Untuk menjalankan unit test PremanAi dengan benar, pastikan environment variable `PYTHONPATH` diarahkan ke folder `src` supaya modul PremanAi dikenali.
+
+Jalankan perintah berikut dari root folder project:
+
+```bash
+PYTHONPATH=src pytest tests/
+
+
 ## ⚠️ Catatan Akhir
 PremanAi bukan buat manja-manjaan. Ini buat lo yang niat, yang mau serius ngoding, bikin karya, atau sekadar main kasar sama teknologi. Jangan manja, jangan ngeluh. Lo pakai, lo tanggung jawab.
