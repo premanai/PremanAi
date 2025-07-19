@@ -1,48 +1,38 @@
-# 🧢 PREMAN.AI
-**AI NYENTRIK BERGAYA PREMAN TAPI PENUH FUNGSI!**
+# 🧠 PremanAi — Penjelasan Tambahan
 
-PremanAi is an all-in-one AI tool with personality.  
-It's built to handle:
-- Prompt generation (text-to-image, text-to-video, etc.)
-- File & media conversion (flip, docx to PDF, image unlock)
-- Auto hashtag maker (normal, SEO, absurd)
-- AI with sarcasm and preman-style replies
+## 💡 Apa Itu PremanAi?
+PremanAi adalah AI dengan attitude! Gak cuma cerdas, tapi juga galak kalau disalahgunakan. Dirancang buat bantu lo mikir, bikin konten, dan nyari ide kreatif tanpa banyak bacot.
 
-👊 Powered by JAPREM (Jatah Preman): a credit-based access system.  
-🧠 Detects users who try to cheat (even with new email or device).  
-🎥 Built-in Veo, OpenAI, and other API integrations.
+## 🎛️ Menu Fitur Lengkap
+1. Tanya Jawab Otak-Ai
+2. Bikin Prompt Keren:
+   - Text ➜ Image
+   - Text ➜ Video (Veo 2 / Veo 3)
+   - Text ➜ Audio FX
+   - Video ➜ Audio FX
+   - Video ➜ Prompt / Image
+3. Converter Sadis:
+   - Flip, Convert JPG/PNG, Docx ➜ PDF
+4. Removal Benda Mengganggu:
+   - Hapus Background & Watermark
 
-> "Lo ngelawak? Japrem lo habis! Subscribe dulu, TONG!"
+## 💎 Sistem JAPREM (Jatah Preman)
+- Refill otomatis: 2 JAPREM / 6 jam
+- Langgar aturan? Kredit lo *mengecil kaya nyali dicengin preman!*
 
----
+## 🎫 Aturan Main
+- Subscribe YouTube Channels PremanAi & ULD = kredit aman
+- Unsub 2x? Jadi Member Bayar!
+- Bypass email? Kagak bisa! Kita pake kode rahasia yang kagak bisa lo curangi (RAHASIA BOS!).
 
-### 💡 Features
-- Text-to-Image Prompt Generator
-- Text-to-Video (Veo 2/3)
-- Audio FX Maker from Text/Video
-- Video-to-Image Extractor
-- Hashtag Generator (SEO / Absurd / Auto-Scan)
-- File Converters (flip, unlock, to-PDF, etc)
-- Image Background & Watermark Remover
-- JAPREM credit system (refill every 6 hours)
-- Subscription detection (YT link + device lock)
-- Role-based access (Free: Mantan | Paid: BadBoy, Boss, BigBoss)
+## 💰 Paket Membership
+- BADBOY 1-3
+- BOSS 1-3
+- BIGBOSS (Langganan Gede, Gaya Lo Lebih Gede Lagi!)
 
----
+## 📥 Cara Akses
+- Bisa diakses via CLI / Web / Bot
+- Repo ini auto-update, tinggal pull atau unduh ulang
 
-### 📦 Tech Stack
-- Node.js + Express.js (Backend)
-- MongoDB (Database)
-- React / Next.js (Frontend)
-- Firebase Auth + YouTube API (Subscribe Check)
-- Device Fingerprinting (Private Module)
-- Modular API ready for cloud scaling
-
----
-
-### ⚠️ Rules
-This repo contains only the **core skeleton** of PremanAi.  
-Sensitive device tracking logic is stored in internal modules, not for public.
-
-> Respect the street rules, TONG. Lo pake? Jangan colong!
-
+## ⚠️ Catatan Akhir
+PremanAi bukan buat manja-manjaan. Ini buat lo yang niat, yang mau serius ngoding, bikin karya, atau sekadar main kasar sama teknologi. Jangan manja, jangan ngeluh. Lo pakai, lo tanggung jawab.
