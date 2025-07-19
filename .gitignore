@@ -1,25 +1,69 @@
-# Python cache and compiled files
+# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
+*$py.class
+
+# C extensions
+*.so
 
 # Distribution / packaging
+.Python
 build/
+develop-eggs/
 dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
 *.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
 
 # Virtual environments
-env/
 venv/
-.venv/
+ENV/
+env/
+env.bak/
+venv.bak/
 
-# IDE/editor config files
+# PyInstaller
+*.manifest
+*.spec
+
+# IDEs and editors
 .vscode/
 .idea/
+*.sublime-project
+*.sublime-workspace
 
 # OS files
 .DS_Store
 Thumbs.db
 
-# Env files
+# Env files with secrets
 .env
 .env.*
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
