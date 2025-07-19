@@ -1,5 +1,5 @@
 import unittest
-from src.hashtag_gen import (
+from hashtag_gen import (
     generate_normal_hashtags,
     generate_absurd_hashtags,
     generate_seo_friendly_hashtags,
