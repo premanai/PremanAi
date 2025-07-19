@@ -1,20 +1,25 @@
-# Python
+# Python cache and compiled files
 __pycache__/
 *.py[cod]
-*.egg
-*.egg-info/
-dist/
-build/
 
-# Environments
-.env
-.venv/
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
 env/
 venv/
+.venv/
 
-# VS Code
+# IDE/editor config files
 .vscode/
+.idea/
 
-# OS Files
+# OS files
 .DS_Store
 Thumbs.db
+
+# Env files
+.env
+.env.*
