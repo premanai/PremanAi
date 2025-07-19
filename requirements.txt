@@ -1,8 +1,6 @@
 openai
 requests
-Pillow
+pillow
 moviepy
-pydub
 opencv-python
-python-docx
-reportlab
+python-dotenv
