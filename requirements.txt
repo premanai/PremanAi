@@ -1,0 +1,8 @@
+openai
+requests
+Pillow
+moviepy
+pydub
+opencv-python
+python-docx
+reportlab
